@@ -9,8 +9,7 @@ const vehicle = {
 
     stop(){
         console.log(`SHHHHHHHHHHH`)
-    }
-
+    },
 }
 
 const bike = {
